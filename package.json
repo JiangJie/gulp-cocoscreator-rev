@@ -1,6 +1,6 @@
 {
   "name": "gulp-cocoscreator-rev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "对CocosCreator构建后的资源进行版本化（md5）处理。",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "url": "https://github.com/JiangJie/gulp-cocoscreator-rev/issues"
   },
   "homepage": "https://github.com/JiangJie/gulp-cocoscreator-rev#readme",
-  "devDependencies": {
+  "dependencies": {
     "copy-dir": "^0.3.0",
     "gulp-util": "^3.0.8",
     "mkdirp": "^0.5.1"
